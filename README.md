@@ -2,11 +2,11 @@
 Neural auto Tagging aims to automatically tag photos based on the few images that it has been shown.it uses <b>Siamese Neural Network</b>. this model is based on <b>FaceNet</b> model.
 <br/>
 
-<h2>Adding User to The Database</h2><br/>
+<h2>Adding User to The Database</h2>
 1. Through webcam: users can opt for option 1 in user registration to take a snapshot of themselves from the integrated wecam. program automatically crops the face part from the taken photo and stores in a desired place. moreover if the person is not looking at the webcam then the program waits until it detects a face.<br/>
 2. Adding photo through webcam is easy but the photo quality can depend on the quality of the webcam and also lightning condition of the room so there is another option to add user from disk. this gives better results <br/>
 
-<h2>Deleting User</h2><br/>
+<h2>Deleting User</h2>
 there is also an option to delete user and all photographs stores from the data base
 
 <h2>How well does it perform </h2>
