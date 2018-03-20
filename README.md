@@ -9,7 +9,7 @@ Neural auto Tagging aims to automatically tag photos based on the few images tha
 <h2>Deleting User</h2><br/>
 there is also an option to delete user and all photographs stores from the data base
 
-<h2>How well does it perform </h2><br/>
+<h2>How well does it perform </h2>
 enough of talking tech but the important question is how well does it really perform in real life.let me share some real snapshots to give you a real idea about this <br/>
 
 here is a pic to priyanka chopra which it was able to detect perfectly
