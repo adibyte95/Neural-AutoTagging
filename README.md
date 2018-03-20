@@ -19,7 +19,7 @@ its not that it can only detect faces in which person is looking directly. here 
 it can also detect if two persons are present in the same frame which is the sole perpose of this repository. here is a picture of emma watson and beyonce which is deteced perfectly even though 4 female actress are present in the data base. <br/>
 <img src ="https://github.com/adibyte95/Neural-AutoTagging/blob/master/tagged_photos/emma_beyonce.jpg" /><br/>
 
-so now the main question comes is it perfet. common nothing is perfect in this world and this is no exception. have a look at the following image in which abhishek is recognized as beyonce.<br/>
+so now the main question comes is it perfect. common nothing is perfect in this world and this is no exception. have a look at the following image in which abhishek is recognized as beyonce.<br/>
 <img src="https://github.com/adibyte95/Neural-AutoTagging/blob/master/tagged_photos/abhishek.jpg" ><br/>
 here is another one<br/>
 <img src="https://github.com/adibyte95/Neural-AutoTagging/blob/master/tagged_photos/aish_abhi.jpg" />
@@ -29,7 +29,7 @@ here is another one<br/>
 2. try training the model from ground up. i used trained weights here because of lack of computing power . this network can achieve good accuracy by minimizing some thing called triplet loss 
 
 <h2>Note</h2>
-any one can raise an issue if any bug is found. i am also open to pull requests<br/>
+any one can raise an issue if any bug is found. i am also open to pull requests.<br/>
 <h2>Credits</h2>
 1.Code for Facenet model is based on the assignment from Convolutional Neural Networks Specialization by Deeplearning.ai on Coursera.
 2.Florian Schroff, Dmitry Kalenichenko, James Philbin (2015). <a href= "https://arxiv.org/pdf/1503.03832.pdf"> FaceNet: A Unified Embedding for Face Recognition and Clustering</a><br/>
