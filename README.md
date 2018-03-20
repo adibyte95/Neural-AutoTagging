@@ -20,6 +20,6 @@ it can also detect if two persons are present in the same frame which is the sol
 <img src ="https://github.com/adibyte95/Neural-AutoTagging/blob/master/tagged_photos/emma_beyonce.jpg" /><br/>
 
 so now the main question comes is it perfet. common nothing is perfect in this world and this is no exception. have a look at the following image in which abhishek is recognized as beyonce.<br/>
-<img src=""https://github.com/adibyte95/Neural-AutoTagging/blob/master/tagged_photos/abhishek.jpg ><br/>
+<img src="https://github.com/adibyte95/Neural-AutoTagging/blob/master/tagged_photos/abhishek.jpg" ><br/>
 here is another one<br/>
 <img sc="https://github.com/adibyte95/Neural-AutoTagging/blob/master/tagged_photos/aish_abhi.jpg" />
