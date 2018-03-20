@@ -25,8 +25,8 @@ here is another one<br/>
 <img src="https://github.com/adibyte95/Neural-AutoTagging/blob/master/tagged_photos/aish_abhi.jpg" />
 
 <h2>Tips to improve performance </h2>
-1. try using high quality of images. don't use webcam if you webcam is of poor quality
-2. try training the model from ground up. i used trained weights here because of lack of computing power . this network can achieve good accuracy by minimizing some thing called triplet loss 
+1. try using high quality of images. don't use webcam if you webcam is of poor quality<br/>
+2. try training the model from ground up. i used trained weights here because of lack of computing power . this network can achieve good accuracy by minimizing some thing called triplet loss <br/>
 
 <h2>Note</h2>
 any one can raise an issue if any bug is found. i am also open to pull requests.<br/>
