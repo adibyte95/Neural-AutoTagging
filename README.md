@@ -22,4 +22,15 @@ it can also detect if two persons are present in the same frame which is the sol
 so now the main question comes is it perfet. common nothing is perfect in this world and this is no exception. have a look at the following image in which abhishek is recognized as beyonce.<br/>
 <img src="https://github.com/adibyte95/Neural-AutoTagging/blob/master/tagged_photos/abhishek.jpg" ><br/>
 here is another one<br/>
-<img sc="https://github.com/adibyte95/Neural-AutoTagging/blob/master/tagged_photos/aish_abhi.jpg" />
+<img src="https://github.com/adibyte95/Neural-AutoTagging/blob/master/tagged_photos/aish_abhi.jpg" />
+
+<h2>Tips to improve performance </h2>
+1. try using high quality of images. don't use webcam if you webcam is of poor quality
+2. try training the model from ground up. i used trained weights here because of lack of computing power . this network can achieve good accuracy by minimizing some thing called triplet loss 
+
+<h2>Note</h2>
+any one can raise an issue if any bug is found. i am also open to pull requests<br/>
+<h2>Credits</h2>
+1.Code for Facenet model is based on the assignment from Convolutional Neural Networks Specialization by Deeplearning.ai on Coursera.
+2.Florian Schroff, Dmitry Kalenichenko, James Philbin (2015). <a href= "https://arxiv.org/pdf/1503.03832.pdf"> FaceNet: A Unified Embedding for Face Recognition and Clustering</a><br/>
+3. Yaniv Taigman, Ming Yang, Marc'Aurelio Ranzato, Lior Wolf (2014). <a href="https://research.fb.com/wp-content/uploads/2016/11/deepface-closing-the-gap-to-human-level-performance-in-face-verification.pdf"> DeepFace: Closing the gap to human-level performance in face verification</a><br/>
