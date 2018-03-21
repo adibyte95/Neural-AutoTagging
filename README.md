@@ -35,4 +35,4 @@ Any one can raise an issue if any bug is found. i am also open to pull requests.
 2.Florian Schroff, Dmitry Kalenichenko, James Philbin (2015). <a href= "https://arxiv.org/pdf/1503.03832.pdf"> FaceNet: A Unified Embedding for Face Recognition and Clustering</a><br/>
 3. Yaniv Taigman, Ming Yang, Marc'Aurelio Ranzato, Lior Wolf (2014). <a href="https://research.fb.com/wp-content/uploads/2016/11/deepface-closing-the-gap-to-human-level-performance-in-face-verification.pdf"> DeepFace: Closing the gap to human-level performance in face verification</a><br/>
 4.The pretrained model we use is inspired by Victor Sy Wang's implementation and was loaded using his code .
-<a href="https://github.com/iwantooxxoox/Keras-OpenFace">Our implementation also took a lot of inspiration from the official FaceNet github repository</a><br/>
+<a href="https://github.com/iwantooxxoox/Keras-OpenFace">read more here</a><br/>
